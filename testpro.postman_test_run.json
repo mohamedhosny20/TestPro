@@ -1,0 +1,356 @@
+{
+	"id": "9ed07a93-d84b-4855-8670-f883dba9e82c",
+	"name": "testpro",
+	"timestamp": "2022-03-11T01:21:23.556Z",
+	"collection_id": "19438076-c4a47d20-bfca-4efa-9f2a-bded2a107f59",
+	"folder_id": 0,
+	"environment_id": "19438076-ddf165b3-a2c3-47c8-aaf6-4156ac81637f",
+	"totalPass": 24,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "7eeb69f4-7885-4460-ba88-6148daab51d5",
+			"name": "ceat list of users with list array",
+			"time": 154,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"creat list of user array successfully ": true,
+				"Response time is less than 3000ms": true
+			},
+			"testPassFailCounts": {
+				"creat list of user array successfully ": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Response time is less than 3000ms": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				157,
+				154
+			],
+			"allTests": [
+				{
+					"creat list of user array successfully ": true,
+					"Response time is less than 3000ms": true
+				},
+				{
+					"creat list of user array successfully ": true,
+					"Response time is less than 3000ms": true
+				}
+			]
+		},
+		{
+			"id": "a68822cf-ae63-4465-a712-967ab612b5b4",
+			"name": "creat users with list",
+			"time": 155,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"creat users with list successfully": true,
+				"Response time is less than 3000ms": true
+			},
+			"testPassFailCounts": {
+				"creat users with list successfully": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Response time is less than 3000ms": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				154,
+				155
+			],
+			"allTests": [
+				{
+					"creat users with list successfully": true,
+					"Response time is less than 3000ms": true
+				},
+				{
+					"creat users with list successfully": true,
+					"Response time is less than 3000ms": true
+				}
+			]
+		},
+		{
+			"id": "b3e16bf4-fd79-405d-bdc0-2a7bb71a4465",
+			"name": "get user by username",
+			"time": 152,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"get user by username successfully ": true,
+				"Response time is less than 1000ms": true
+			},
+			"testPassFailCounts": {
+				"get user by username successfully ": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Response time is less than 1000ms": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				154,
+				152
+			],
+			"allTests": [
+				{
+					"get user by username successfully ": true,
+					"Response time is less than 1000ms": true
+				},
+				{
+					"get user by username successfully ": true,
+					"Response time is less than 1000ms": true
+				}
+			]
+		},
+		{
+			"id": "a0ee5e9e-2c76-4d27-adf9-046be6b4b941",
+			"name": "login user into the system",
+			"time": 151,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"login user into the system successfully": true,
+				"Response time is less than 3000ms": true
+			},
+			"testPassFailCounts": {
+				"login user into the system successfully": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Response time is less than 3000ms": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				153,
+				151
+			],
+			"allTests": [
+				{
+					"login user into the system successfully": true,
+					"Response time is less than 3000ms": true
+				},
+				{
+					"login user into the system successfully": true,
+					"Response time is less than 3000ms": true
+				}
+			]
+		},
+		{
+			"id": "ce022f02-d196-4877-b706-ae1a211f25ef",
+			"name": "creat new user",
+			"time": 154,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"creat user is successfully": true,
+				"Response time is less than 2000ms": true
+			},
+			"testPassFailCounts": {
+				"creat user is successfully": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Response time is less than 2000ms": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				155,
+				154
+			],
+			"allTests": [
+				{
+					"creat user is successfully": true,
+					"Response time is less than 2000ms": true
+				},
+				{
+					"creat user is successfully": true,
+					"Response time is less than 2000ms": true
+				}
+			]
+		},
+		{
+			"id": "5a9a3e4f-ee9f-4459-a446-a62f65ea1a6a",
+			"name": "put user",
+			"time": 160,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"update user is successfully": true,
+				"Response time is less than 3000ms": true
+			},
+			"testPassFailCounts": {
+				"update user is successfully": {
+					"pass": 2,
+					"fail": 0
+				},
+				"Response time is less than 3000ms": {
+					"pass": 2,
+					"fail": 0
+				}
+			},
+			"times": [
+				155,
+				160
+			],
+			"allTests": [
+				{
+					"update user is successfully": true,
+					"Response time is less than 3000ms": true
+				},
+				{
+					"update user is successfully": true,
+					"Response time is less than 3000ms": true
+				}
+			]
+		},
+		{
+			"id": "3f7f29cf-4a2c-4e47-8ba1-af06498fd441",
+			"name": "creat user for delet",
+			"time": 152,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				157,
+				152
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "ce964c83-1ed4-4f4d-9bd2-702ab300d546",
+			"name": "login for user delet",
+			"time": 153,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				152,
+				153
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "d5150891-0b0e-4fbf-b5d2-5b3c8f1050d9",
+			"name": "logout user",
+			"time": 152,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				151,
+				152
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		},
+		{
+			"id": "63ace8e6-5a4a-41ef-894f-0746c623bbe5",
+			"name": "delete user",
+			"time": 155,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {},
+			"testPassFailCounts": {},
+			"times": [
+				151,
+				155
+			],
+			"allTests": [
+				{},
+				{}
+			]
+		}
+	],
+	"count": 2,
+	"totalTime": 3077,
+	"collection": {
+		"requests": [
+			{
+				"id": "7eeb69f4-7885-4460-ba88-6148daab51d5",
+				"method": "POST"
+			},
+			{
+				"id": "a68822cf-ae63-4465-a712-967ab612b5b4",
+				"method": "POST"
+			},
+			{
+				"id": "b3e16bf4-fd79-405d-bdc0-2a7bb71a4465",
+				"method": "GET"
+			},
+			{
+				"id": "a0ee5e9e-2c76-4d27-adf9-046be6b4b941",
+				"method": "GET"
+			},
+			{
+				"id": "ce022f02-d196-4877-b706-ae1a211f25ef",
+				"method": "POST"
+			},
+			{
+				"id": "5a9a3e4f-ee9f-4459-a446-a62f65ea1a6a",
+				"method": "PUT"
+			},
+			{
+				"id": "3f7f29cf-4a2c-4e47-8ba1-af06498fd441",
+				"method": "POST"
+			},
+			{
+				"id": "ce964c83-1ed4-4f4d-9bd2-702ab300d546",
+				"method": "GET"
+			},
+			{
+				"id": "d5150891-0b0e-4fbf-b5d2-5b3c8f1050d9",
+				"method": "GET"
+			},
+			{
+				"id": "63ace8e6-5a4a-41ef-894f-0746c623bbe5",
+				"method": "DELETE"
+			}
+		]
+	}
+}
